@@ -1,0 +1,21 @@
+{
+  "records": [
+    {
+      "name": "Amal",
+      "age": "25",
+      "height": "180",
+      "weight": "91",
+      "bmi": "0.28",
+      "id": "TsAcWeW9U20"
+    },
+    {
+      "name": "cool guy",
+      "age": "34",
+      "height": "234",
+      "weight": "100",
+      "bmi": "0.18",
+      "id": "qXSpbwfHfKI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
