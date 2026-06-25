@@ -1,6 +1,6 @@
 import axiosConfig from "./axiosConfig";
 
-const serverURL = 'http://localhost:3000'
+const serverURL = 'https://medibuddy-sfwa.onrender.com'
 
 //add record
 export const addRecordAPI = async (reqBody) => {
